@@ -5,5 +5,3 @@ Thomson began working as a government employee at Statistics Indonesia (BPS Lamp
 
 Thomson is also passionate about expanding his network and education, taking part in youth forums both domestically and internationally. He plans to help the public and business sectors create remote sensing applications for official data and the environment.
 
-These are platforms which you can reach me.
-
