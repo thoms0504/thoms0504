@@ -89,17 +89,6 @@ open_to: Collaboration, research, and international networks
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| 📁 **[DokuKegiatan](https://github.com/thoms0504/dokumentasi-kegiatan-laporan)** | Serverless, mobile-first web app for documenting office activities. Automatically organizes reports, time-stamped photos, and supporting documents in Google Drive (`Year › Month › Activity`), tracks progress 0–100%, and shows a KPI dashboard. | ![Apps Script](https://img.shields.io/badge/Apps_Script-4285F4?style=flat-square&logo=google&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Sheets](https://img.shields.io/badge/DB-Google_Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white) |
-<!-- Add more projects using the same format:
-| 🛰️ **[Project Name](https://github.com/thoms0504/repo-name)** | What problem it solves and the result. | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
--->
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
