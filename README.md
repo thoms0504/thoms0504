@@ -1,12 +1,12 @@
 <!-- ===== Animated header ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01304F,50:0277BD,100:00E676&height=210&section=header&text=Thomson%20Sibuea&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=IT Specialist%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20GeoAI%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:01304F,50:0277BD,100:00E676&height=210&section=header&text=Thomson%20Sibuea&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=IT%20Specialist%20%E2%80%A2%20Remote%20Sensing%20%E2%80%A2%20GeoAI%20%E2%80%A2%20Web%20Developer&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="Header"/>
 </p>
 
 <!-- ===== Typing animation ===== -->
 <p align="center">
   <a href="https://github.com/thoms0504">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0277BD&center=true&vCenter=true&multiline=false&width=640&height=45&lines=Hi+there%2C+I'm+Thomson+%F0%9F%91%8B;IT Specialist+%40+BPS+Lampung+Province;Turning+satellite+pixels+into+insights+%F0%9F%9B%B0%EF%B8%8F;Building+GeoAI+for+official+statistics+%F0%9F%A7%A0;Crafting+serverless+web+apps+for+government+%F0%9F%8C%90" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=0277BD&center=true&vCenter=true&multiline=false&width=640&height=45&lines=Hi+there%2C+I'm+Thomson+%F0%9F%91%8B;IT+Specialist+%40+BPS+Lampung+Province;Turning+satellite+pixels+into+insights+%F0%9F%9B%B0%EF%B8%8F;Building+GeoAI+for+official+statistics+%F0%9F%A7%A0;Crafting+serverless+web+apps+for+government+%F0%9F%8C%90" alt="Typing SVG"/>
   </a>
 </p>
 
