@@ -17,9 +17,6 @@
 </p>
 
 <!-- ===== Custom animated illustration (assets/satellite-scan.svg) ===== -->
-<p align="center">
-  <img src="./assets/satellite-scan.svg" width="100%" alt="Satellite orbiting Earth and scanning the surface"/>
-</p>
 
 ---
 
