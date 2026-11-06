@@ -1,6 +1,6 @@
 <!-- ===== HEADER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:01304F,50:0277BD,100:00E676&height=230&section=header&text=Thomson%20Sibuea&fontSize=56&fontColor=ffffff&fontAlignY=40&desc=Remote%20Sensing%20%C2%B7%20GeoAI%20%C2%B7%20Official%20Statistics%20%C2%B7%20Web%20Development&descAlignY=62&descSize=16&animation=fadeIn" width="100%" alt="Thomson Sibuea"/>
+  <img src="assets/header.svg" width="100%" alt="Thomson Sibuea - Remote Sensing, GeoAI, Official Statistics, Web Development"/>
 </p>
 
 <p align="center">
@@ -75,20 +75,9 @@ Collaboration, research, and international networks
 
 How I approach turning earth observation data into official statistics:
 
-```mermaid
-flowchart LR
-    A["Satellite Imagery<br/>Sentinel, Landsat"] --> B["Preprocessing<br/>Google Earth Engine"]
-    B --> C["Feature Extraction<br/>Indices and Bands"]
-    C --> D["Classification<br/>ML and Deep Learning"]
-    D --> E["Validation<br/>Ground Truth and Accuracy"]
-    E --> F["Statistical Products<br/>Granular Official Data"]
-    F --> G["Dissemination<br/>Web Apps and Dashboards"]
-
-    classDef step fill:#0277BD,stroke:#01304F,color:#ffffff;
-    classDef out fill:#00A86B,stroke:#01304F,color:#ffffff;
-    class A,B,C,D,E step;
-    class F,G out;
-```
+<p align="center">
+  <img src="assets/workflow.svg" width="100%" alt="Workflow: satellite imagery, preprocessing, feature extraction, classification, validation, statistical products, dissemination"/>
+</p>
 
 ---
 
@@ -258,5 +247,5 @@ I am open to discussions and collaboration on:
 
 <!-- ===== FOOTER ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E676,50:0277BD,100:01304F&height=110&section=footer&text=Turning%20pixels%20into%20insights%20for%20people%20and%20planet&fontSize=17&fontColor=ffffff&fontAlignY=68" width="100%" alt="Footer"/>
+  <img src="assets/footer.svg" width="100%" alt="Turning pixels into insights for people and planet"/>
 </p>
